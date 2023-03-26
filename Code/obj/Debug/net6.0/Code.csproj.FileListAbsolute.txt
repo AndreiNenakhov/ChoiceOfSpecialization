@@ -1,0 +1,15 @@
+F:\ChoiceOfSpecialization\ChoiceOfSpecialization\Code\bin\Debug\net6.0\Code.exe
+F:\ChoiceOfSpecialization\ChoiceOfSpecialization\Code\bin\Debug\net6.0\Code.deps.json
+F:\ChoiceOfSpecialization\ChoiceOfSpecialization\Code\bin\Debug\net6.0\Code.runtimeconfig.json
+F:\ChoiceOfSpecialization\ChoiceOfSpecialization\Code\bin\Debug\net6.0\Code.dll
+F:\ChoiceOfSpecialization\ChoiceOfSpecialization\Code\bin\Debug\net6.0\Code.pdb
+F:\ChoiceOfSpecialization\ChoiceOfSpecialization\Code\obj\Debug\net6.0\Code.csproj.AssemblyReference.cache
+F:\ChoiceOfSpecialization\ChoiceOfSpecialization\Code\obj\Debug\net6.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+F:\ChoiceOfSpecialization\ChoiceOfSpecialization\Code\obj\Debug\net6.0\Code.AssemblyInfoInputs.cache
+F:\ChoiceOfSpecialization\ChoiceOfSpecialization\Code\obj\Debug\net6.0\Code.AssemblyInfo.cs
+F:\ChoiceOfSpecialization\ChoiceOfSpecialization\Code\obj\Debug\net6.0\Code.csproj.CoreCompileInputs.cache
+F:\ChoiceOfSpecialization\ChoiceOfSpecialization\Code\obj\Debug\net6.0\Code.dll
+F:\ChoiceOfSpecialization\ChoiceOfSpecialization\Code\obj\Debug\net6.0\refint\Code.dll
+F:\ChoiceOfSpecialization\ChoiceOfSpecialization\Code\obj\Debug\net6.0\Code.pdb
+F:\ChoiceOfSpecialization\ChoiceOfSpecialization\Code\obj\Debug\net6.0\Code.genruntimeconfig.cache
+F:\ChoiceOfSpecialization\ChoiceOfSpecialization\Code\obj\Debug\net6.0\ref\Code.dll
