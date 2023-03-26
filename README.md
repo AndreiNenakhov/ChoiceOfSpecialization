@@ -18,4 +18,5 @@
 
 Решение Задачи:
 Блок схема решения задачи:
-![ForMetod](https://user-images.githubusercontent.com/124388285/227772255-50498fb0-fe00-4728-9758-e0eb06c65b06.jpg)
+
+![BlockSheme](https://user-images.githubusercontent.com/124388285/227772342-3c13adc8-9007-4490-989b-30fde7b48a25.jpg)
