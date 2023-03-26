@@ -18,3 +18,4 @@
 
 Решение Задачи:
 Блок схема решения задачи:
+![ForMetod](https://user-images.githubusercontent.com/124388285/227772255-50498fb0-fe00-4728-9758-e0eb06c65b06.jpg)
