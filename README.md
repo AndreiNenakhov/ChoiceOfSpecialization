@@ -27,8 +27,7 @@
 
 **Блок схема решения задачи:**
 
-![BlockSheme](https://user-images.githubusercontent.com/124388285/227772342-3c13adc8-9007-4490-989b-30fde7b48a25.jpg)
-
+![ForMetod](https://user-images.githubusercontent.com/124388285/227773897-5657d485-9e0a-40a0-9c3b-c6a8b87e5a9c.jpg)
 
 **Код программы:**
 
